@@ -9,10 +9,10 @@ I got the [Spark Core device](https://www.spark.io/) from the
 [Kickstarter project](https://www.kickstarter.com/projects/sparkdevices/spark-core-wi-fi-for-everything-arduino-compatible)
 and this is my first project.
 
-![](https://raw.github.com/rigtorp/spark-dht11/master/hardware.jpeg =250x)
+![](https://raw.github.com/rigtorp/spark-dht11/master/hardware.jpg =250x)
 
 [The circuit is a DHT11 connected to 3v3, GND and a data
-pin](https://raw.github.com/rigtorp/spark-dht11/master/hardware.jpeg). I
+pin](https://raw.github.com/rigtorp/spark-dht11/master/hardware.jpg). I
 use the internal pullup on the data pin.
 
 I noticed a lot of people had issues with the DHT sensors and I could
