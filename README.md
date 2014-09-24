@@ -11,7 +11,9 @@ and this is my first project.
 
 [The circuit is a DHT11 connected to 3v3, GND and a data
 pin](https://raw.github.com/rigtorp/spark-dht11/master/hardware.jpg). I
-use the internal pullup on the data pin.
+use the internal pullup on the data pin:
+
+![Photo of Spark Core with DHT11](https://github.com/rigtorp/spark-dht11/blob/master/hardware.jpg)
 
 I noticed a lot of people had issues with the DHT sensors and I could
 not get the Adafruit library working myself. The [Adafruit
